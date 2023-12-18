@@ -10,7 +10,7 @@ Team Members :
 - (MD) Vanya Terra Ardani – Sriwijaya University
 
 ## Project Description
-Venu is a mobile application for hoax information/news detection that was developed in such a way as to stimulate public concern about fake news that could be exposed at any time. Venu is designed to be easy for anyone to use
+Venu is a mobile application for hoax information/news detection that was developed in such a way as to stimulate public concern about fake news that could be exposed at any time. Venu is designed to be easy for anyone to use.
 
 ### Key Features
 - **News Homepage** : A homepage that contains news from various sources or information that is currently going viral on social media and news. This homepage also contains a presentation of indications that the information is hoax.
@@ -28,6 +28,6 @@ Venu is a mobile application for hoax information/news detection that was develo
 
 
 ### Repository 
-- [Mechine Learning Notebook](https://github.com/VENU-CH2-PS241/VENU-ML)
+- [Machine Learning Notebook](https://github.com/VENU-CH2-PS241/VENU-ML)
 - [Cloud Computing Repo](https://github.com/VENU-CH2-PS241/VENU-CC)
 - [Mobile Android Repo](https://github.com/VENU-CH2-PS241/VENU-MD)
