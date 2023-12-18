@@ -24,10 +24,10 @@ Venu is a mobile application for hoax information/news detection that was develo
   - Google Cloud Service : Firebase, Cloud SQL, Cloud Storage, Cloud App Engine and Cloud Run
   - Backend Development: Gin Golang and Flask Python
   - Database: PostgreSQL
-- Mobile App Development: Kotlin, Retrofit, and Firebase Auth 
+- Mobile App Development: Android Studio with Native Kotlin, Retrofit, and Firebase Auth 
 
 
 ### Repository 
 - [Mechine Learning Notebook](https://github.com/VENU-CH2-PS241/VENU-ML)
-- [Cloud Computing repo](https://github.com/VENU-CH2-PS241/VENU-CC)
+- [Cloud Computing Repo](https://github.com/VENU-CH2-PS241/VENU-CC)
 - [Mobile Android Repo](https://github.com/VENU-CH2-PS241/VENU-MD)
